@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.99132c82.chunk.css",
-    "main.js": "/static/js/main.a1930a2b.chunk.js",
-    "main.js.map": "/static/js/main.a1930a2b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ab51b96c.chunk.js": "/static/js/2.ab51b96c.chunk.js",
-    "static/js/2.ab51b96c.chunk.js.map": "/static/js/2.ab51b96c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cec2339c4735b3f72a8084c62721566f.js": "/precache-manifest.cec2339c4735b3f72a8084c62721566f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.99132c82.chunk.css.map": "/static/css/main.99132c82.chunk.css.map",
-    "static/media/styles.scss": "/static/media/icons8-medium-monogram.881300f7.svg"
+    "main.css": "/NozhenkoD/css-in-react/static/css/main.9bf09918.chunk.css",
+    "main.js": "/NozhenkoD/css-in-react/static/js/main.55754c0b.chunk.js",
+    "main.js.map": "/NozhenkoD/css-in-react/static/js/main.55754c0b.chunk.js.map",
+    "runtime~main.js": "/NozhenkoD/css-in-react/static/js/runtime~main.8aacd930.js",
+    "runtime~main.js.map": "/NozhenkoD/css-in-react/static/js/runtime~main.8aacd930.js.map",
+    "static/js/2.3e4cdd39.chunk.js": "/NozhenkoD/css-in-react/static/js/2.3e4cdd39.chunk.js",
+    "static/js/2.3e4cdd39.chunk.js.map": "/NozhenkoD/css-in-react/static/js/2.3e4cdd39.chunk.js.map",
+    "index.html": "/NozhenkoD/css-in-react/index.html",
+    "precache-manifest.fc215c8f69f4002ac5909904b7978e33.js": "/NozhenkoD/css-in-react/precache-manifest.fc215c8f69f4002ac5909904b7978e33.js",
+    "service-worker.js": "/NozhenkoD/css-in-react/service-worker.js",
+    "static/css/main.9bf09918.chunk.css.map": "/NozhenkoD/css-in-react/static/css/main.9bf09918.chunk.css.map",
+    "static/media/styles.scss": "/NozhenkoD/css-in-react/static/media/icons8-medium-monogram.881300f7.svg"
   }
 }
