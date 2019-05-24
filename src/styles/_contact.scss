@@ -1,0 +1,36 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  //align-items: center;
+  //justify-content: center;
+  //text-align: center;
+  a {
+    color: #1890ff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color .3s;
+    &:hover {
+      color: #136fff;
+    }
+  }
+}
+
+.contact__title {
+
+}
+
+.contact__sub-title {
+  line-height: 40px;
+}
+
+.contact__title-list {
+  margin-bottom: 0;
+}
+
+.contact__list {
+  list-style-type: decimal;
+  li {
+    margin-bottom: 5px;
+    line-height: 21px;
+  }
+}

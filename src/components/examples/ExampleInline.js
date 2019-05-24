@@ -1,8 +1,7 @@
 import React from 'react';
-import injectSheet from 'react-jss';
 
-const styles = {
-  wrapper: {
+const ExampleInline = () => {
+  const wrapper = {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
@@ -11,12 +10,8 @@ const styles = {
     padding: '50px',
     color: '#444',
     border: '1px solid #1890ff',
-  },
-  title: {
-    color: '#0d1a26',
-    fontWeight: 400,
-  },
-  button: {
+  };
+  const button = {
     padding: '10px 20px',
     border: 'none',
     borderRadius: '4px',
@@ -28,15 +23,14 @@ const styles = {
     '&:hover': {
       background: '#40a9ff'
     }
-  }
+  };
+
+  return (
+    <div style={wrapper}>
+      <h1 style={{color: '#0d1a26', fontWeight: 400}}>Example Inline.</h1>
+      <button style={button}>Button</button>
+    </div>
+  );
 };
 
-
-const ExampleJss = ({ classes }) => (
-  <div className={classes.wrapper}>
-    <h1 className={classes.title}>Example JSS.</h1>
-    <button className={classes.button}>Button</button>
-  </div>
-);
-
-export default injectSheet(styles)(ExampleJss)
+export default ExampleInline;
