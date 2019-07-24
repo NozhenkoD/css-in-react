@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.fc215c8f69f4002ac5909904b7978e33.js"
+  "/NozhenkoD/css-in-react/precache-manifest.c8a0523e02cf865949dbfe5fe1a3dc75.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("./index.html"), {
-
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/NozhenkoD/css-in-react/index.html"), {
+  
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
