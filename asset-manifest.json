@@ -7,9 +7,9 @@
     "runtime~main.js.map": "./js/runtime~main.8aacd930.js.map",
     "static/js/2.3e4cdd39.chunk.js": "./js/2.3e4cdd39.chunk.js",
     "static/js/2.3e4cdd39.chunk.js.map": "./js/2.3e4cdd39.chunk.js.map",
-    "index.html": "/NozhenkoD/css-in-react/index.html",
-    "precache-manifest.fc215c8f69f4002ac5909904b7978e33.js": "/NozhenkoD/css-in-react/precache-manifest.fc215c8f69f4002ac5909904b7978e33.js",
-    "service-worker.js": "/NozhenkoD/css-in-react/service-worker.js",
+    "index.html": "./index.html",
+    "precache-manifest.fc215c8f69f4002ac5909904b7978e33.js": "./precache-manifest.fc215c8f69f4002ac5909904b7978e33.js",
+    "service-worker.js": "./service-worker.js",
     "static/css/main.9bf09918.chunk.css.map": "./css/main.9bf09918.chunk.css.map",
     "static/media/styles.scss": "./media/icons8-medium-monogram.881300f7.svg"
   }

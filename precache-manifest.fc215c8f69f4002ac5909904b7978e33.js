@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "723299f6d15d47d214f9c0dad9ca4356",
-    "url": "/NozhenkoD/css-in-react/index.html"
+    "url": "./index.html"
   },
   {
     "revision": "7e949ce442d5f77dde8a",
