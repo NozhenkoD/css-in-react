@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "723299f6d15d47d214f9c0dad9ca4356",
+    "revision": "d5271935ae94f7f80ef2b79068697f1b",
     "url": "/NozhenkoD/css-in-react/index.html"
   },
   {
-    "revision": "7e949ce442d5f77dde8a",
-    "url": "/NozhenkoD/css-in-react/static/css/main.9bf09918.chunk.css"
+    "revision": "b5875c176ce523d6b69e",
+    "url": "/NozhenkoD/css-in-react/static/css/main.cb9bca7e.chunk.css"
   },
   {
-    "revision": "63add88e584e5360607d",
-    "url": "/NozhenkoD/css-in-react/static/js/2.3e4cdd39.chunk.js"
+    "revision": "6f191b8f2f1bf3e63827",
+    "url": "/NozhenkoD/css-in-react/static/js/2.3b44a848.chunk.js"
   },
   {
-    "revision": "7e949ce442d5f77dde8a",
-    "url": "/NozhenkoD/css-in-react/static/js/main.55754c0b.chunk.js"
+    "revision": "b5875c176ce523d6b69e",
+    "url": "/NozhenkoD/css-in-react/static/js/main.33f5e8d3.chunk.js"
   },
   {
     "revision": "d3f139f2de252b195046",

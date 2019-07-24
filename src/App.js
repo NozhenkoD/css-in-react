@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import './styles/styles.scss'
-
-import { Navigation } from './components/navigation'
-import { View } from './components/view'
-import { ViewCode } from './components/viewCode'
-import { Code } from './components/code'
-import { GithubLogo } from './components/GithubLogo'
+import { Navigation } from './components/navigation';
+import { View } from './components/view';
+import { Code } from './components/code';
+import { GithubLogo } from './components/GithubLogo';
 import PAGES from './constants/pages';
+
+import './styles/styles.scss';
 
 export class App extends Component {
 
@@ -32,7 +31,7 @@ export class App extends Component {
         <Navigation active={currentPage} handleClick={this.handleClickNavItem} />
         <View component={component} />
         <Code code={code} />
-        <GithubLogo />
+        {/*<GithubLogo />*/}
       </div>
     );
   }

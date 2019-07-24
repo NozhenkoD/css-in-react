@@ -1,6 +1,6 @@
 export const cssModule = `
   import React from 'react';
-  import styles from './css.module.css'
+  import styles from './css.module.css';
   
   const ExampleCssModule = () => {
     return (
